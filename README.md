@@ -8,10 +8,13 @@ We provide free version and donate version. The differents between them is wheth
 * Support one-key modify
 * Support add Busybox
 * Support add Magisk
+
 The prices of the donate version are:
 * $3.9/Season (3 months)
 * $11.9/Year (12 months)
+
 So far, we have already support Alipay and Wechat Payment. You should donate with our app RomBench Donater (Android). We are still developing this function, so please wait for a moment...
 ## About
-Design： [@LTDSA](https://github.com/LTDSA)
+Design: [@LTDSA](https://github.com/LTDSA)
+
 Algorithm: @LittleTurtle
