@@ -17,4 +17,4 @@ So far, we have already support Alipay and Wechat Payment. You should donate wit
 ## About
 Design: [@LTDSA](https://github.com/LTDSA)
 
-Algorithm: @LittleTurtle
+Algorithm: [@LittleTurtle2333](https://github.com/LittleTurtle2333)
