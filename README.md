@@ -10,8 +10,8 @@ We provide free version and donate version. The differents between them is wheth
 * Support add Magisk
 
 The prices of the donate version are:
-* $3.9/Season (3 months)
-* $11.9/Year (12 months)
+* $3.9(￥19)/Season (3 months)
+* $11.9(￥69)/Year (12 months)
 
 So far, we have already support Alipay and Wechat Payment. You should donate with our app RomBench Donater (Android). We are still developing this function, so please wait for a moment...
 ## About
